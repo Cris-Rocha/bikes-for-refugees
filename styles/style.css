@@ -97,6 +97,15 @@ p {
 
   /* INSERT BUTTON STYLES HERE */
 
+  
+
+   .otro:hover{
+     background-color: rgb(146, 73, 146);
+   } 
+
+   button:hover {
+    background-color: red;  }
+
 
 /* Content */
 
