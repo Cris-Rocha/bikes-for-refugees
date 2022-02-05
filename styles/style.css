@@ -66,9 +66,9 @@ p {
   
 }
 
-.navigation__item {
+/* .navigation__item {
   padding: 0.5rem 0;
-}
+} */
 
 .navigation__link {
   color: var(--grey-dark);
@@ -76,9 +76,10 @@ p {
   text-transform: uppercase;
   text-decoration: none;
   padding: 0px 10px 0px 10px;
-  margin: 5px;
+  margin: 0px 5px;
   border: 1px solid transparent;
-  
+ 
+
 }
 
 
